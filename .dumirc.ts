@@ -2,7 +2,7 @@ import {defineConfig} from 'dumi';
 
 export default defineConfig({
   themeConfig: {
-    name: 'helloworld',//此处为网站首页显示名称
+    name: 'HelloWorld',//此处为网站首页显示名称
     logo: 'logo.png',
     favicons: ['favicon.ico'],
 

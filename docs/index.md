@@ -23,7 +23,7 @@ Column(纵向排列)
 Box(绝对位置)
 ConstraintLayout(约束布局)...
 ```
-## [程序上线之后Header获取不到的问题](https://www.helloworld.today/go#程序上线之后Header获取不到的问题)
+## [程序上线之后Header获取不到的问题](https://www.helloworld.today/go#程序上线之后header获取不到的问题)
 ```
 可能是由于Header中的字段存在特殊字符，
 如：下划线等，需要配置Nginx支持下划线，

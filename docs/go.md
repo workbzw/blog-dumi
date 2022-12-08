@@ -50,5 +50,3 @@ description:  go 教程
 `underscores_in_headers on;`
 注：默认 underscores_in_headers 为off。
 如果不想折腾`Nginx`配置，则可以把下划线改为中划线：`-`，或者去掉下划线
-
-###  

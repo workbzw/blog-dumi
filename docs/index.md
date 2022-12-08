@@ -15,7 +15,7 @@ Column(纵向排列)
 Box(绝对位置)
 ConstraintLayout(约束布局)...
 ```
-## [程序上线之后Header获取不到的问题](https://www.helloworld.today/go#程序上线之后Header获取不到的问题)
+## [程序上线之后Header获取不到的问题](https://www.helloworld.today/go#%E7%A8%8B%E5%BA%8F%E4%B8%8A%E7%BA%BF%E4%B9%8B%E5%90%8EHeader%E8%8E%B7%E5%8F%96%E4%B8%8D%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
 ```
 可能是由于Header中的字段存在特殊字符，
 如：下划线等，需要配置Nginx支持下划线，

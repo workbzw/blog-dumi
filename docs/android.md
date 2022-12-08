@@ -4,7 +4,7 @@ title: 'Android'
 description:  android教程 面试 大厂
 ---
 # Android
-## Compose
+## Compose入门
 ### 布局介绍
 `Compose`共包含有4种布局：
 - `Row`(横向排列)

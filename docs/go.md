@@ -1,13 +1,19 @@
 ---
 keywords: [go,goroutain,routain,区块链,kubernetes,k8s,大厂,面试,高级,中级]
-title: 'Go'
+title: '基础语法'
 description:  go 教程
 toc: content
+nav:
+ title: Go
+ order: 1
+group:
+ title: 基础语法
+ order: 0
 ---
 
-# Go
+# 基础语法
 
-## 基本语法
+## 基础语法
 
 ### 基本数据类型
 

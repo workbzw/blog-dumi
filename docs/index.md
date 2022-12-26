@@ -5,9 +5,6 @@ description:  helloworld 教程
 hero:
   title: 'HelloWorld .today'
   description: ''
-nav:
- title: 首页
- order: 1
 ---
 # 文章列表
 ## [Go 基本数据类型](https://www.helloworld.today/go#基本数据类型)

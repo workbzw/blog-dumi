@@ -4,8 +4,8 @@ title: '基本框架与技术'
 description:  go 教程 路由 gin 数据库 gorm 缓存redis go-redis 长连接 gorilla/websocket 短信 alibabacloud-go yaml配置读取 gopkg.in/yaml
 toc: content
 nav:
- title: Go
- order: 1
+ title: 即时通讯
+ order: 2
 group:
  title: 即时通讯
  order: 1

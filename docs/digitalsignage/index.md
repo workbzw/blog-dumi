@@ -1,13 +1,13 @@
 ---
 keywords: [android,compose,row,column,box,contraintlayout,大厂,面试,高级,中级]
-title: '基本布局'
+title: '技术栈'
 description:  android教程 面试 大厂 Compose 布局
 toc: content
 nav:
- title: Android
- order: 0
+ title: 广告机
+ order: 3
 group:
- title: Compose入门
+ title: 广告机
  order: 0
 ---
 # 基本布局

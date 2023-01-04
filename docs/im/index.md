@@ -4,8 +4,8 @@ title: '基本数据类型'
 description:  go 教程
 toc: content
 nav:
- title: Go
- order: 0
+ title: 即时通讯
+ order: 2
 group:
  title: 基础语法
  order: 0
